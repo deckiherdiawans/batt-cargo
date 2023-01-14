@@ -1,5 +1,5 @@
 {
-  "name": "batt_cargo",
+  "name": "batt-cargo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
